@@ -83,8 +83,6 @@ netsh winsock reset
 
 ![netsh winsock reset](https://github.com/esabud/Internet-Abud/blob/tesetg/assets/src/netshwinsockreset.png)
 Reiniciar o computador 
-# Reiniciei e ta sem internet
-
 # Autor
 
 Eduardo Abud Sousa
