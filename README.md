@@ -1,42 +1,12 @@
 # Internet-Abud
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/esabud/Internet-Abud/blob/tesetg/LICENSE) 
 
-# Sobre o guid
-
+# Sobre o projeto
 E um guid para otimizar um pouco sua internet com coisas simples um .bat,redgit,comandos no cdm.
 
-## Layout mobile
-![Mobile 1](![teste](https://user-images.githubusercontent.com/82381207/132021392-ecdfc859-559e-4374-b362-3c78018dc020.png)) ![Mobile 2](https://github.com/acenelio/assets/raw/main/sds1/mobile2.png)
+# Como executar os arquivos
 
-## Layout web
-![Web 1](https://github.com/acenelio/assets/raw/main/sds1/web1.png)
-
-![Web 2](https://github.com/acenelio/assets/raw/main/sds1/web2.png)
-
-## Modelo conceitual
-![Modelo Conceitual](https://github.com/acenelio/assets/raw/main/sds1/modelo-conceitual.png)
-
-# Tecnologias utilizadas
-## Back end
-- Java
-- Spring Boot
-- JPA / Hibernate
-- Maven
-## Front end
-- HTML / CSS / JS / TypeScript
-- ReactJS
-- React Native
-- Apex Charts
-- Expo
-## Implantação em produção
-- Back end: Heroku
-- Front end web: Netlify
-- Banco de dados: Postgresql
-
-# Como executar o projeto
-
-## Back end
-Pré-requisitos: Java 11
+Vamos começar com o [Ping Tweaks]
+[Ping Tweaks](https://raw.githubusercontent.com/esabud/desktop-tutorial/4da95101413c479e9529e2a074e7e43842b6b798/assets/ping.png?token=ATUQTF5NV4D4FJM5BHCTOMLBGI7K2)
 
 ```bash
 # clonar repositório
@@ -68,7 +38,4 @@ yarn start
 
 # Autor
 
-Wellington Mazoni de Andrade
-
-https://www.linkedin.com/in/wmazoni
-
+Eduardo Abud Sousa
