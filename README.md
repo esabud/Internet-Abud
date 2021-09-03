@@ -21,6 +21,28 @@ Vamos  ertar com o botao direito e executar
  Vamaos aperta com direito em mesclar
 
 ![Vamaos aperta em mesclar](https://github.com/esabud/Internet-Abud/blob/tesetg/assets/src/Vamaos%20aperta%20em%20mesclar.png)
+
+Desativar OneDrive Sync
+
+![Desativar OneDrive Sync](https://github.com/esabud/Internet-Abud/blob/tesetg/assets/src/Desativar%20OneDrive%20Sync.png)
+
+![Vamaos aperta em mesclar](https://github.com/esabud/Internet-Abud/blob/tesetg/assets/src/Vamaos%20aperta%20em%20mesclar.png)
+
+Desativar Otimização de Entrega
+
+![Desativar Otimização de Entrega](https://github.com/esabud/Internet-Abud/blob/tesetg/assets/src/Desativar%20Otimiza%C3%A7%C3%A3o%20de%20Entrega.png)
+
+![Vamaos aperta em mesclar](https://github.com/esabud/Internet-Abud/blob/tesetg/assets/src/Vamaos%20aperta%20em%20mesclar.png)
+
+Desativar índice de limitação de rede
+
+![Desativar índice de limitação de rede](https://github.com/esabud/Internet-Abud/blob/tesetg/assets/src/Desativar%20%C3%ADndice%20de%20limita%C3%A7%C3%A3o%20de%20rede.png)
+
+![Vamaos aperta em mesclar](https://github.com/esabud/Internet-Abud/blob/tesetg/assets/src/Vamaos%20aperta%20em%20mesclar.png)
+
+Prioridade de indernet
+
+![Prioridade de indernet](https://github.com/esabud/Internet-Abud/blob/tesetg/assets/src/Prioridade%20de%20indernet.png)
 # Autor
 
 Eduardo Abud Sousa
