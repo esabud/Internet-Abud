@@ -1,11 +1,12 @@
 # Internet-Abud
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/esabud/Internet-Abud/blob/tesetg/LICENSE) 
 
-# Sobre o projeto
+# Sobre o guid
 
+E um guid para otimizar um pouco sua internet com coisas simples um .bat,redgit,comandos no cdm.
 
 ## Layout mobile
-![Mobile 1](https://github.com/acenelio/assets/raw/main/sds1/mobile1.png) ![Mobile 2](https://github.com/acenelio/assets/raw/main/sds1/mobile2.png)
+![Mobile 1](![teste](https://user-images.githubusercontent.com/82381207/132021392-ecdfc859-559e-4374-b362-3c78018dc020.png)) ![Mobile 2](https://github.com/acenelio/assets/raw/main/sds1/mobile2.png)
 
 ## Layout web
 ![Web 1](https://github.com/acenelio/assets/raw/main/sds1/web1.png)
