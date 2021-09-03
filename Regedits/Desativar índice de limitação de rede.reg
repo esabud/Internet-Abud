@@ -1,6 +1,0 @@
-Windows Registry Editor Version 5.00                                                                                                                                                                                  www.youtube.com/c/mariufps
-
-;Disable Network Throttling Index
-
-[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Multimedia\SystemProfile]
-"NetworkThrottlingIndex"=dword:ffffffff

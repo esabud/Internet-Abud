@@ -1,6 +1,0 @@
-Windows Registry Editor Version 5.00                                                                                                                                                                                  www.youtube.com/c/mariufps
-
-;Disable Delivery Optimization
-
-[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\DeliveryOptimization\Settings]
-"DownloadMode"=dword:00000000
