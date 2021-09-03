@@ -65,6 +65,24 @@ Prioridade de indernet
 ![Vamos apertar em Sim](https://github.com/esabud/Internet-Abud/blob/tesetg/assets/src/Sim.png)
 
 ![Vamos apertar em ok](https://github.com/esabud/Internet-Abud/blob/tesetg/assets/src/e%20ok%20vamos%20fazer%20em%20todos.png)
+
+#Comandos no Cmd
+
+ipconfig /flushdns
+![ipconfig /flushdns](https://github.com/esabud/Internet-Abud/blob/tesetg/assets/src/ipconfigflushdns.png)
+
+netsh int ipv4 reset
+
+![netsh int ipv4 reset](https://github.com/esabud/Internet-Abud/blob/tesetg/assets/src/netshintipv4reset.png)
+
+netsh int ipv6 reset
+
+![netsh int ipv6 reset](https://github.com/esabud/Internet-Abud/blob/tesetg/assets/src/netshintipv6reset.png)
+
+netsh winsock reset
+
+![netsh winsock reset](https://github.com/esabud/Internet-Abud/blob/tesetg/assets/src/netshwinsockreset.png)
+
 # Autor
 
 Eduardo Abud Sousa
