@@ -18,31 +18,53 @@ Vamos  ertar com o botao direito e executar
 
 ![Nagle's Algorithm](https://github.com/esabud/Internet-Abud/blob/tesetg/assets/src/Desativar%20Nagle's%20Algorithm.png)
 
- Vamaos aperta com direito em mesclar
+ Vamos aperta com direito em mesclar
 
-![Vamaos aperta em mesclar](https://github.com/esabud/Internet-Abud/blob/tesetg/assets/src/Vamaos%20aperta%20em%20mesclar.png)
+![Vamos apertar em mesclar](https://github.com/esabud/Internet-Abud/blob/tesetg/assets/src/Vamaos%20aperta%20em%20mesclar.png)
+
+![Vamos apertar em Sim](https://github.com/esabud/Internet-Abud/blob/tesetg/assets/src/Sim.png)
+
+![Vamos apertar em ok](https://github.com/esabud/Internet-Abud/blob/tesetg/assets/src/e%20ok%20vamos%20fazer%20em%20todos.png)
 
 Desativar OneDrive Sync
 
 ![Desativar OneDrive Sync](https://github.com/esabud/Internet-Abud/blob/tesetg/assets/src/Desativar%20OneDrive%20Sync.png)
 
-![Vamaos aperta em mesclar](https://github.com/esabud/Internet-Abud/blob/tesetg/assets/src/Vamaos%20aperta%20em%20mesclar.png)
+![Vamos apertar em mesclar](https://github.com/esabud/Internet-Abud/blob/tesetg/assets/src/Vamaos%20aperta%20em%20mesclar.png)
+
+![Vamos apertar em Sim](https://github.com/esabud/Internet-Abud/blob/tesetg/assets/src/Sim.png)
+
+![Vamos apertar em ok](https://github.com/esabud/Internet-Abud/blob/tesetg/assets/src/e%20ok%20vamos%20fazer%20em%20todos.png)
 
 Desativar Otimização de Entrega
 
 ![Desativar Otimização de Entrega](https://github.com/esabud/Internet-Abud/blob/tesetg/assets/src/Desativar%20Otimiza%C3%A7%C3%A3o%20de%20Entrega.png)
 
-![Vamaos aperta em mesclar](https://github.com/esabud/Internet-Abud/blob/tesetg/assets/src/Vamaos%20aperta%20em%20mesclar.png)
+![Vamos apertar em mesclar](https://github.com/esabud/Internet-Abud/blob/tesetg/assets/src/Vamaos%20aperta%20em%20mesclar.png)
+
+![Vamos apertar em Sim](https://github.com/esabud/Internet-Abud/blob/tesetg/assets/src/Sim.png)
+
+![Vamos apertar em ok](https://github.com/esabud/Internet-Abud/blob/tesetg/assets/src/e%20ok%20vamos%20fazer%20em%20todos.png)
 
 Desativar índice de limitação de rede
 
 ![Desativar índice de limitação de rede](https://github.com/esabud/Internet-Abud/blob/tesetg/assets/src/Desativar%20%C3%ADndice%20de%20limita%C3%A7%C3%A3o%20de%20rede.png)
 
-![Vamaos aperta em mesclar](https://github.com/esabud/Internet-Abud/blob/tesetg/assets/src/Vamaos%20aperta%20em%20mesclar.png)
+![Vamos apertar em mesclar](https://github.com/esabud/Internet-Abud/blob/tesetg/assets/src/Vamaos%20aperta%20em%20mesclar.png)
+
+![Vamos apertar em Sim](https://github.com/esabud/Internet-Abud/blob/tesetg/assets/src/Sim.png)
+
+![Vamos apertar em ok](https://github.com/esabud/Internet-Abud/blob/tesetg/assets/src/e%20ok%20vamos%20fazer%20em%20todos.png)
 
 Prioridade de indernet
 
 ![Prioridade de indernet](https://github.com/esabud/Internet-Abud/blob/tesetg/assets/src/Prioridade%20de%20indernet.png)
+
+![Vamos apertar em mesclar](https://github.com/esabud/Internet-Abud/blob/tesetg/assets/src/Vamaos%20aperta%20em%20mesclar.png)
+
+![Vamos apertar em Sim](https://github.com/esabud/Internet-Abud/blob/tesetg/assets/src/Sim.png)
+
+![Vamos apertar em ok](https://github.com/esabud/Internet-Abud/blob/tesetg/assets/src/e%20ok%20vamos%20fazer%20em%20todos.png)
 # Autor
 
 Eduardo Abud Sousa
