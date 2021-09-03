@@ -1,0 +1,7 @@
+Windows Registry Editor Version 5.00                                                                                                                                                                                  www.youtube.com/c/mariufps
+
+;Disable Nagle's Algorithm
+
+[HKey_Local_Machine\System\CurrentControlSet\Services\Tcpip\Parameters\Interfaces]
+"TcpAckFrequency"=dword:00000000
+"TCPNoDelay"=dword:00000000
