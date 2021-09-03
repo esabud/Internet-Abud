@@ -66,7 +66,7 @@ Prioridade de indernet
 
 ![Vamos apertar em ok](https://github.com/esabud/Internet-Abud/blob/tesetg/assets/src/e%20ok%20vamos%20fazer%20em%20todos.png)
 
-##Comandos no Cmd
+## Comandos no Cmd
 
 ipconfig /flushdns
 ![ipconfig /flushdns](https://github.com/esabud/Internet-Abud/blob/tesetg/assets/src/ipconfigflushdns.png)
