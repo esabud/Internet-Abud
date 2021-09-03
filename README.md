@@ -7,7 +7,7 @@ E um guid para otimizar um pouco sua internet com coisas simples um .bat,redgit,
 Vamos começar com o Ping Tweaks
 
 ## Layout mobile
-![Mobile 1](https://raw.githubusercontent.com/acenelio/assets/ping.png)
+![alt text](https://raw.githubusercontent.com/esabud/Internet-Abud/blob/tesetg/assets/src/ping.png)
 
 # Autor
 
