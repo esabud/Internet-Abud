@@ -1,7 +1,7 @@
 # Internet-Abud
 
 # Sobre o projeto
-E um guid para otimizar um pouco sua internet com coisas simples um .bat,redgit,comandos no cdm.
+E um guid para otimizar um pouco sua internet com coisas simples um .bat,redgit,comandos no cmd.
 
 ## Ping Tweaks
 ![Ping Tweaks](https://github.com/esabud/Internet-Abud/blob/tesetg/assets/src/ping.png)
