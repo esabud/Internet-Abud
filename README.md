@@ -6,8 +6,7 @@ E um guid para otimizar um pouco sua internet com coisas simples um .bat,redgit,
 # Como executar os arquivos
 
 Vamos começar com o [Ping Tweaks]
-[Ping Tweaks]https://raw.githubusercontent.com/esabud/desktop-tutorial/4da95101413c479e9529e2a074e7e43842b6b798/assets/ping.png?token=ATUQTF5NV4D4FJM5BHCTOMLBGI7K2
-
+![Mobile 1](https://github.com/esabud/desktop-tutorial/4da95101413c479e9529e2a074e7e43842b6b798/assets/ping.png)
 ```bash
 # clonar repositório
 git clone https://github.com/devsuperior/sds1-wmazoni
